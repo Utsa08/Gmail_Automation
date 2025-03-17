@@ -1,0 +1,552 @@
+ 2025-03-06 13:34:47,738 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 13:35:40,876 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 13:35:46,173 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 13:36:15,681 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 13:36:16,014 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 13:36:16,590 :INFO : test_login : Description :Python Automation
+2025-03-06 16:07:45,046 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 16:07:50,883 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 16:09:18,497 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 16:09:23,797 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 16:09:54,807 :INFO : test_login : To Email: trinanjan.baul@cbnits.com
+2025-03-06 16:09:55,239 :INFO : test_login : Subject :Hello
+2025-03-06 16:09:55,639 :INFO : test_login : Description :Hiiii
+ 2025-03-06 17:33:08,583 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:33:14,750 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:34:09,576 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:34:15,261 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:34:33,111 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:34:33,457 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:34:33,960 :INFO : test_login : Description :Python Automation
+2025-03-06 17:35:02,819 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:35:08,356 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:35:30,523 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:35:30,986 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:35:31,535 :INFO : test_login : Description :Python Automation
+2025-03-06 17:41:34,383 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:41:39,592 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:42:24,765 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:42:29,792 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:42:53,175 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:42:53,719 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:42:54,668 :INFO : test_login : Description :Python Automation
+2025-03-06 17:43:19,867 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:43:25,387 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:43:43,281 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:43:43,876 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:43:44,834 :INFO : test_login : Description :Python Automation
+2025-03-06 17:44:53,192 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:44:58,248 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:46:57,499 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:47:02,605 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:47:33,908 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:47:34,318 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:47:35,038 :INFO : test_login : Description :Python Automation
+2025-03-06 17:49:24,669 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-06 17:49:30,751 :INFO : test_login : My Password: Cbnits@1234
+2025-03-06 17:49:48,618 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-06 17:49:49,152 :INFO : test_login : Subject :Gmail Python Automation
+2025-03-06 17:49:49,765 :INFO : test_login : Description :Python Automation
+2025-03-07 11:40:34,360 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:40:39,734 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:41:01,486 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 11:41:01,702 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 11:41:02,601 :INFO : test_login : Description :Python Automated mail
+2025-03-07 11:45:34,518 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:45:40,107 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:46:00,919 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 11:46:01,456 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 11:46:02,511 :INFO : test_login : Description :Python Automated mail
+2025-03-07 11:48:21,315 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:48:27,416 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:48:49,762 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 11:48:50,139 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 11:48:51,005 :INFO : test_login : Description :Python Automated mail
+2025-03-07 11:51:14,582 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:51:20,329 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:54:46,809 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:54:52,852 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:55:30,190 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 11:55:30,386 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 11:55:30,777 :INFO : test_login : Description :Python Automated mail
+2025-03-07 11:57:14,178 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 11:57:19,687 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 11:57:49,810 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 11:57:50,138 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 11:57:51,109 :INFO : test_login : Description :Python Automated
+2025-03-07 12:04:18,776 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 12:04:24,957 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 12:04:42,555 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 12:04:42,803 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 12:04:43,406 :INFO : test_login : Description :Python Automated
+2025-03-07 12:18:33,110 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-07 12:18:38,856 :INFO : test_login : My Password: Cbnits@1234
+2025-03-07 12:18:57,937 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-07 12:18:58,342 :INFO : test_login : Subject :Gmail Automation
+2025-03-07 12:18:58,738 :INFO : test_login : Description :Python Automated
+2025-03-10 11:24:02,622 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:24:08,222 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:24:26,505 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 11:24:26,850 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 11:24:27,437 :INFO : test_login : Description :Python Automation
+2025-03-10 11:25:37,130 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:25:42,502 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:25:57,508 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 11:25:57,884 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 11:25:58,310 :INFO : test_login : Description :Python Automation
+2025-03-10 11:33:27,124 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:33:32,731 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:33:48,304 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 11:33:48,676 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 11:33:49,267 :INFO : test_login : Description :Python Automation
+2025-03-10 11:33:59,853 :INFO : test_Message : Msg Asserted
+2025-03-10 11:55:00,303 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:55:06,068 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:55:42,786 :INFO : test_Message : Msg Asserted
+2025-03-10 11:56:06,977 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:56:12,663 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:56:44,321 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 11:56:44,704 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 11:56:45,259 :INFO : test_login : Description :Python Automation
+2025-03-10 11:56:55,853 :INFO : test_Message : Msg Asserted
+2025-03-10 11:58:57,856 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 11:59:02,889 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 11:59:37,411 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 11:59:37,707 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 11:59:38,321 :INFO : test_login : Description :Python Automation
+2025-03-10 11:59:49,129 :INFO : test_Message : Msg Asserted
+2025-03-10 11:59:49,129 :INFO : test_Message : Mail Deleted
+2025-03-10 12:08:05,442 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 12:08:11,548 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 12:08:50,392 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 12:08:50,790 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 12:08:51,367 :INFO : test_login : Description :Python Automation
+2025-03-10 12:09:02,337 :INFO : test_Message : Msg Asserted
+2025-03-10 12:09:02,338 :INFO : test_Message : Mail Deleted
+2025-03-10 12:13:49,967 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 12:13:55,775 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 12:14:19,879 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 12:14:20,224 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 12:14:20,965 :INFO : test_login : Description :Python Automation
+2025-03-10 12:14:31,700 :INFO : test_Message : Msg Asserted
+2025-03-10 12:14:31,700 :INFO : test_Message : Mail Deleted
+2025-03-10 13:18:50,135 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 13:18:55,789 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 13:19:13,967 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 13:19:14,787 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 13:19:15,436 :INFO : test_login : Description :Python Automation
+2025-03-10 13:19:26,194 :INFO : test_Message : Msg Asserted
+2025-03-10 13:19:26,194 :INFO : test_Message : Mail Deleted
+2025-03-10 15:12:46,586 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 15:12:52,741 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 15:13:13,514 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 15:13:13,761 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 15:13:14,605 :INFO : test_login : Description :Python Automation
+2025-03-10 15:13:25,327 :INFO : test_Message : Msg Asserted
+2025-03-10 15:13:25,327 :INFO : test_Message : Mail Deleted
+2025-03-10 15:37:34,212 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 15:37:39,895 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 15:37:58,918 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 15:37:59,310 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 15:37:59,976 :INFO : test_login : Description :Python Automation
+2025-03-10 15:46:29,771 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 15:46:35,294 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 15:47:04,184 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 15:47:04,496 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 15:47:05,170 :INFO : test_login : Description :Python Automation
+2025-03-10 15:50:39,164 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 15:50:42,020 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 15:50:57,536 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 15:50:57,836 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 15:50:58,438 :INFO : test_login : Description :Python Automation
+2025-03-10 15:51:29,043 :INFO : test_Message : Msg Asserted
+2025-03-10 15:51:29,043 :INFO : test_Message : Mail Deleted
+2025-03-10 16:18:36,430 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 16:18:42,602 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 16:18:58,304 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 16:18:58,740 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 16:18:59,273 :INFO : test_login : Description :Python Automation
+2025-03-10 16:46:00,358 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 16:46:06,065 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 16:46:35,318 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 16:46:35,621 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 16:46:36,349 :INFO : test_login : Description :Python Automation
+2025-03-10 16:50:50,096 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 16:50:55,625 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 16:51:13,600 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 16:51:14,092 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 16:51:15,129 :INFO : test_login : Description :Python Automation
+2025-03-10 17:06:46,955 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:06:49,804 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:07:07,173 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:07:07,593 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:07:08,249 :INFO : test_login : Description :Python Automation
+2025-03-10 17:18:16,204 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:18:21,444 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:22:20,457 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:22:26,690 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:22:53,816 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:22:54,206 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:22:54,992 :INFO : test_login : Description :Python Automation
+2025-03-10 17:23:32,324 :INFO : test_Message : Msg Asserted
+2025-03-10 17:23:32,324 :INFO : test_Message : Mail Deleted
+2025-03-10 17:26:07,318 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:26:14,643 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:26:37,069 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:26:37,447 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:26:38,088 :INFO : test_login : Description :Python Automation
+2025-03-10 17:27:40,466 :INFO : test_Message : Msg Asserted
+2025-03-10 17:27:40,466 :INFO : test_Message : Mail Deleted
+2025-03-10 17:32:54,245 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:32:59,249 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:33:20,691 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:33:20,874 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:33:21,307 :INFO : test_login : Description :Python Automation
+2025-03-10 17:34:21,584 :INFO : test_Message : Msg Asserted
+2025-03-10 17:34:21,584 :INFO : test_Message : Mail Deleted
+2025-03-10 17:37:09,635 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:37:15,855 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:37:32,797 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:37:33,223 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:37:33,895 :INFO : test_login : Description :Python Automation
+2025-03-10 17:38:32,891 :INFO : test_Message : Msg Asserted
+2025-03-10 17:38:32,891 :INFO : test_Message : Mail Deleted
+2025-03-10 17:40:04,438 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:40:10,064 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:40:26,335 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:40:26,764 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:40:27,167 :INFO : test_login : Description :Python Automation
+2025-03-10 17:42:18,202 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:42:23,873 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:43:36,200 :INFO : test_Message : Msg Asserted
+2025-03-10 17:43:36,200 :INFO : test_Message : Mail Deleted
+2025-03-10 17:45:26,696 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:45:32,350 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:45:50,430 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:45:50,632 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:45:51,370 :INFO : test_login : Description :Python Automation
+2025-03-10 17:47:56,472 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:48:02,678 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:48:21,250 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:48:21,788 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:48:22,584 :INFO : test_login : Description :Python Automation
+2025-03-10 17:49:14,463 :INFO : test_Message : Msg Asserted
+2025-03-10 17:49:14,463 :INFO : test_Message : Mail Deleted
+2025-03-10 17:57:13,401 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-10 17:57:18,519 :INFO : test_login : My Password: Cbnits@1234
+2025-03-10 17:57:35,516 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-10 17:57:35,845 :INFO : test_login : Subject :Gmail Automation
+2025-03-10 17:57:36,285 :INFO : test_login : Description :Python Automation
+2025-03-11 11:48:21,707 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 11:48:27,327 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 11:48:54,235 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 11:48:54,813 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 11:48:55,459 :INFO : test_login : Description :Python Automation
+2025-03-11 11:49:47,571 :INFO : test_Message : Msg Asserted
+2025-03-11 11:49:47,571 :INFO : test_Message : Mail Deleted
+2025-03-11 11:51:27,689 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 11:51:32,634 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 11:51:50,443 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 11:51:50,706 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 11:51:51,066 :INFO : test_login : Description :Python Automation
+2025-03-11 11:52:43,958 :INFO : test_Message : Msg Asserted
+2025-03-11 11:52:43,958 :INFO : test_Message : Mail Deleted
+2025-03-11 12:07:27,241 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 12:07:32,877 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 12:07:54,071 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 12:07:54,498 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 12:07:55,186 :INFO : test_login : Description :Python Automation
+2025-03-11 12:08:47,774 :INFO : test_Message : Msg Asserted
+2025-03-11 12:08:47,775 :INFO : test_Message : Mail Deleted
+2025-03-11 12:13:51,861 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 12:13:54,628 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 12:14:24,657 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 12:14:25,155 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 12:14:25,737 :INFO : test_login : Description :Python Automation
+2025-03-11 12:15:13,661 :INFO : test_Message : Msg Asserted
+2025-03-11 12:15:13,662 :INFO : test_Message : Mail Deleted
+2025-03-11 12:16:17,373 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 12:16:22,950 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 12:16:46,388 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 12:16:46,761 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 12:16:47,358 :INFO : test_login : Description :Python Automation
+2025-03-11 12:17:37,151 :INFO : test_Message : Msg Asserted
+2025-03-11 12:17:37,152 :INFO : test_Message : Mail Deleted
+2025-03-11 12:41:24,845 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 12:41:30,465 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 12:42:32,122 :INFO : test_Message : Msg Asserted
+2025-03-11 12:42:32,123 :INFO : test_Message : Mail Deleted
+2025-03-11 12:47:01,967 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 12:47:07,582 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 12:47:26,026 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 12:47:26,311 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 12:47:27,055 :INFO : test_login : Description :Python Automation
+2025-03-11 12:48:25,697 :INFO : test_Message : Msg Asserted
+2025-03-11 12:48:25,697 :INFO : test_Message : Mail Deleted
+2025-03-11 12:59:56,601 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 13:00:05,030 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 13:00:32,236 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 13:00:33,030 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 13:00:33,689 :INFO : test_login : Description :Python Automation
+2025-03-11 13:01:27,405 :INFO : test_Message : Msg Asserted
+2025-03-11 13:01:27,405 :INFO : test_Message : Mail Deleted
+2025-03-11 13:06:24,331 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 13:06:30,476 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 13:07:04,261 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 13:07:04,604 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 13:07:05,268 :INFO : test_login : Description :Python Automation
+2025-03-11 13:07:57,436 :INFO : test_Message : Msg Asserted
+2025-03-11 13:07:57,436 :INFO : test_Message : Mail Deleted
+2025-03-11 13:21:49,661 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 13:21:55,262 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 13:22:51,934 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 13:22:57,731 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 13:23:16,701 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 13:23:17,389 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 13:23:17,759 :INFO : test_login : Description :Python Automation
+2025-03-11 13:24:13,977 :INFO : test_Message : Msg Asserted
+2025-03-11 13:24:13,978 :INFO : test_Message : Mail Deleted
+2025-03-11 13:27:22,067 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 13:27:28,550 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 13:28:16,098 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 13:28:16,595 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 13:28:17,207 :INFO : test_login : Description :Python Automation
+2025-03-11 13:29:14,811 :INFO : test_Message : Msg Asserted
+2025-03-11 13:29:14,812 :INFO : test_Message : Mail Deleted
+2025-03-11 17:17:54,777 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 17:18:00,636 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 17:26:56,689 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 17:27:02,541 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 17:27:19,518 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 17:27:19,902 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 17:27:20,614 :INFO : test_login : Description :Python Automation
+2025-03-11 17:28:15,047 :INFO : test_Message : Msg Asserted
+2025-03-11 17:28:15,047 :INFO : test_Message : Mail Deleted
+2025-03-11 17:33:06,375 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 17:33:12,409 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 17:33:28,366 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 17:33:28,960 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 17:33:29,870 :INFO : test_login : Description :Python Automation
+2025-03-11 17:36:32,973 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 17:36:38,513 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 17:36:58,754 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 17:36:59,266 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 17:37:00,011 :INFO : test_login : Description :Python Automation
+2025-03-11 17:37:58,287 :INFO : test_Message : Msg Asserted
+2025-03-11 17:37:58,287 :INFO : test_Message : Mail Deleted
+2025-03-11 17:55:40,092 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-11 17:55:45,346 :INFO : test_login : My Password: Cbnits@1234
+2025-03-11 17:56:04,611 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-11 17:56:05,116 :INFO : test_login : Subject :Gmail Automation
+2025-03-11 17:56:05,828 :INFO : test_login : Description :Python Automation
+2025-03-11 17:56:57,094 :INFO : test_Message : Msg Asserted
+2025-03-11 17:56:57,095 :INFO : test_Message : Mail Deleted
+2025-03-12 14:57:23,986 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 14:57:29,089 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 14:57:45,977 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 14:57:46,331 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 14:57:47,033 :INFO : test_login : Description :Python Automation
+2025-03-12 14:58:34,481 :INFO : test_Message : Msg Asserted
+2025-03-12 14:58:34,481 :INFO : test_Message : Mail Deleted
+2025-03-12 15:12:44,078 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 15:12:50,251 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 15:13:06,823 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 15:13:07,229 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 15:13:07,845 :INFO : test_login : Description :Python Automation
+2025-03-12 15:13:53,636 :INFO : test_Message : Msg Asserted
+2025-03-12 15:13:53,637 :INFO : test_Message : Mail Deleted
+2025-03-12 15:14:37,574 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 15:14:43,873 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 15:15:00,416 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 15:15:01,234 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 15:15:01,783 :INFO : test_login : Description :Python Automation
+2025-03-12 15:15:44,151 :INFO : test_Message : Msg Asserted
+2025-03-12 15:15:44,151 :INFO : test_Message : Mail Deleted
+2025-03-12 15:35:25,888 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 15:35:31,733 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 15:35:51,316 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 15:35:51,753 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 15:35:52,380 :INFO : test_login : Description :Python Automation
+2025-03-12 15:38:35,233 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 15:38:41,029 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 15:38:59,976 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 15:39:00,523 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 15:39:01,377 :INFO : test_login : Description :Python Automation
+2025-03-12 15:39:49,715 :INFO : test_Message : Msg Asserted
+2025-03-12 15:39:49,715 :INFO : test_Message : Mail Deleted
+2025-03-12 15:50:10,277 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 15:50:17,705 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 15:50:37,925 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 15:50:38,363 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 15:50:38,997 :INFO : test_login : Description :Python Automation
+2025-03-12 15:51:25,792 :INFO : test_Message : Msg Asserted
+2025-03-12 15:51:25,793 :INFO : test_Message : Mail Deleted
+2025-03-12 16:19:09,507 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 16:19:15,309 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 16:19:31,599 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 16:19:31,908 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 16:19:32,443 :INFO : test_login : Description :Python Automation
+2025-03-12 16:21:45,028 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 16:21:51,833 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 16:22:08,701 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 16:22:09,454 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 16:22:09,896 :INFO : test_login : Description :Python Automation
+2025-03-12 16:23:03,045 :INFO : test_Message : Msg Asserted
+2025-03-12 16:23:03,045 :INFO : test_Message : Mail Deleted
+2025-03-12 16:24:21,398 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 16:24:26,518 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 16:24:43,072 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 16:24:43,553 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 16:24:44,278 :INFO : test_login : Description :Python Automation
+2025-03-12 16:25:31,548 :INFO : test_Message : Msg Asserted
+2025-03-12 16:25:31,548 :INFO : test_Message : Mail Deleted
+2025-03-12 16:35:45,248 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 16:35:51,116 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 16:36:08,754 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 16:36:09,091 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 16:36:09,990 :INFO : test_login : Description :Python Automation
+2025-03-12 16:38:28,808 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 16:38:34,136 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 16:38:57,824 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 16:38:58,065 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 16:38:58,617 :INFO : test_login : Description :Python Automation
+2025-03-12 16:39:51,027 :INFO : test_Message : Msg Asserted
+2025-03-12 16:39:51,027 :INFO : test_Message : Mail Deleted
+2025-03-12 17:05:16,734 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 17:05:23,030 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 17:05:42,973 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 17:05:43,487 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 17:05:44,071 :INFO : test_login : Description :Python Automation
+2025-03-12 17:05:58,211 :INFO : test_chat : Chat Opened
+2025-03-12 17:06:05,553 :INFO : test_Draft : Draft Opened
+2025-03-12 17:06:19,950 :INFO : test_meet : Meet Opened
+2025-03-12 17:06:26,966 :INFO : test_search : Searched Mail
+2025-03-12 17:06:37,751 :INFO : test_Message : Msg Asserted
+2025-03-12 17:06:37,752 :INFO : test_Message : Mail Deleted
+2025-03-12 17:06:44,061 :INFO : test_Label : Added Label
+2025-03-12 17:06:50,713 :INFO : test_Settings : Settings Changed
+2025-03-12 17:06:58,941 :INFO : test_Filter : Filter Added
+2025-03-12 17:07:07,266 :INFO : test_Logout : Logged Out
+2025-03-12 17:44:17,057 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-12 17:44:22,527 :INFO : test_login : My Password: Cbnits@1234
+2025-03-12 17:44:40,307 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-12 17:44:40,691 :INFO : test_login : Subject :Gmail Automation
+2025-03-12 17:44:41,327 :INFO : test_login : Description :Python Automation
+2025-03-12 17:45:00,646 :INFO : test_chat : Chat Opened
+2025-03-12 17:45:07,930 :INFO : test_Draft : Draft Opened
+2025-03-12 17:45:23,225 :INFO : test_meet : Meet Opened
+2025-03-12 17:45:30,536 :INFO : test_search : Searched Mail
+2025-03-12 17:45:41,174 :INFO : test_Message : Msg Asserted
+2025-03-12 17:45:41,174 :INFO : test_Message : Mail Deleted
+2025-03-12 17:45:47,311 :INFO : test_Label : Added Label
+2025-03-12 17:45:53,613 :INFO : test_Settings : Settings Changed
+2025-03-12 17:46:01,752 :INFO : test_Filter : Filter Added
+2025-03-12 17:46:10,065 :INFO : test_Logout : Logged Out
+2025-03-13 11:29:19,900 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 11:29:25,797 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 11:29:52,250 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 11:29:52,680 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 11:29:53,842 :INFO : test_login : Description :Python Automation
+2025-03-13 11:30:12,446 :INFO : test_chat : Chat Opened
+2025-03-13 11:30:19,795 :INFO : test_Draft : Draft Opened
+2025-03-13 11:30:25,495 :INFO : test_meet : Meet Opened
+2025-03-13 11:30:42,036 :INFO : test_search : Searched Mail
+2025-03-13 11:30:52,573 :INFO : test_Message : Msg Asserted
+2025-03-13 11:30:52,573 :INFO : test_Message : Mail Deleted
+2025-03-13 11:30:58,881 :INFO : test_Label : Added Label
+2025-03-13 11:31:06,053 :INFO : test_Settings : Settings Changed
+2025-03-13 11:31:14,413 :INFO : test_Filter : Filter Added
+2025-03-13 11:31:22,624 :INFO : test_Logout : Logged Out
+2025-03-13 12:07:27,842 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:07:34,015 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:07:57,060 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 12:07:57,428 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 12:07:58,130 :INFO : test_login : Description :Python Automation
+2025-03-13 12:08:12,696 :INFO : test_chat : Chat Opened
+2025-03-13 12:08:28,662 :INFO : test_meet : Meet Opened
+2025-03-13 12:08:35,648 :INFO : test_search : Searched Mail
+2025-03-13 12:10:09,468 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:10:15,516 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:10:50,201 :INFO : test_chat : Chat Opened
+2025-03-13 12:10:55,722 :INFO : test_meet : Meet Opened
+2025-03-13 12:11:08,861 :INFO : test_search : Searched Mail
+2025-03-13 12:30:54,505 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:31:00,048 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:31:20,471 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 12:31:21,157 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 12:31:22,016 :INFO : test_login : Description :Python Automation
+2025-03-13 12:31:36,801 :INFO : test_chat : Chat Opened
+2025-03-13 12:31:51,481 :INFO : test_meet : Meet Opened
+2025-03-13 12:31:58,331 :INFO : test_search : Searched Mail
+2025-03-13 12:34:36,214 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:34:41,870 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:34:59,418 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 12:34:59,775 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 12:35:00,206 :INFO : test_login : Description :Python Automation
+2025-03-13 12:35:14,656 :INFO : test_chat : Chat Opened
+2025-03-13 12:35:31,246 :INFO : test_meet : Meet Opened
+2025-03-13 12:35:38,246 :INFO : test_search : Searched Mail
+2025-03-13 12:44:45,215 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:44:50,968 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:45:10,985 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 12:45:11,623 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 12:45:12,145 :INFO : test_login : Description :Python Automation
+2025-03-13 12:45:27,069 :INFO : test_chat : Chat Opened
+2025-03-13 12:45:41,678 :INFO : test_meet : Meet Opened
+2025-03-13 12:45:48,717 :INFO : test_search : Searched Mail
+2025-03-13 12:45:56,075 :INFO : test_Sent : Sent Message Asserted
+2025-03-13 12:46:06,828 :INFO : test_Message : Msg Asserted
+2025-03-13 12:46:06,829 :INFO : test_Message : Mail Deleted
+2025-03-13 12:46:12,945 :INFO : test_Label : Added Label
+2025-03-13 12:46:19,417 :INFO : test_Settings : Settings Changed
+2025-03-13 12:46:27,561 :INFO : test_Filter : Filter Added
+2025-03-13 12:46:34,954 :INFO : test_Draft : Draft Opened
+2025-03-13 12:46:43,320 :INFO : test_Logout : Logged Out
+2025-03-13 12:53:46,851 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 12:53:52,491 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 12:54:13,061 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-13 12:54:13,329 :INFO : test_login : Subject :Gmail Automation
+2025-03-13 12:54:14,148 :INFO : test_login : Description :Python Automation
+2025-03-13 12:54:27,962 :INFO : test_chat : Chat Opened
+2025-03-13 12:54:41,893 :INFO : test_meet : Meet Opened
+2025-03-13 12:54:48,875 :INFO : test_search : Searched Mail
+2025-03-13 12:54:56,199 :INFO : test_Sent : Sent Opened
+2025-03-13 12:55:03,628 :INFO : test_Starred : Starred Opened
+2025-03-13 12:55:14,227 :INFO : test_Message : Msg Asserted
+2025-03-13 12:55:14,228 :INFO : test_Message : Mail Deleted
+2025-03-13 12:55:20,589 :INFO : test_Label : Added Label
+2025-03-13 12:55:27,019 :INFO : test_Settings : Settings Changed
+2025-03-13 12:55:34,970 :INFO : test_Filter : Filter Added
+2025-03-13 12:55:42,264 :INFO : test_Draft : Draft Opened
+2025-03-13 12:55:50,512 :INFO : test_Logout : Logged Out
+2025-03-13 14:10:27,905 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-13 14:10:33,810 :INFO : test_login : My Password: Cbnits@1234
+2025-03-13 14:11:30,142 :INFO : test_chat : Chat Opened
+2025-03-13 14:11:44,570 :INFO : test_meet : Meet Opened
+2025-03-13 14:11:51,554 :INFO : test_search : Searched Mail
+2025-03-13 14:11:58,832 :INFO : test_Sent : Sent Opened
+2025-03-13 14:12:06,102 :INFO : test_Starred : Starred Opened
+2025-03-13 14:12:16,683 :INFO : test_Message : Msg Asserted
+2025-03-13 14:12:16,683 :INFO : test_Message : Mail Deleted
+2025-03-13 14:12:22,816 :INFO : test_Label : Added Label
+2025-03-13 14:12:29,171 :INFO : test_Settings : Settings Changed
+2025-03-13 14:12:37,284 :INFO : test_Filter : Filter Added
+2025-03-13 14:12:44,667 :INFO : test_Draft : Draft Opened
+2025-03-13 14:12:53,013 :INFO : test_Logout : Logged Out
+2025-03-17 11:30:00,597 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
+2025-03-17 11:30:05,957 :INFO : test_login : My Password: Cbnits@1234
+2025-03-17 11:30:32,274 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
+2025-03-17 11:30:32,877 :INFO : test_login : Subject :Gmail Automation
+2025-03-17 11:30:33,806 :INFO : test_login : Description :Python Automation
+2025-03-17 11:30:53,331 :INFO : test_chat : Chat Opened
+2025-03-17 11:31:11,103 :INFO : test_meet : Meet Opened
+2025-03-17 11:31:18,404 :INFO : test_search : Searched Mail
+2025-03-17 11:31:25,873 :INFO : test_Sent : Sent Opened
+2025-03-17 11:31:33,347 :INFO : test_Starred : Starred Opened
+2025-03-17 11:31:43,952 :INFO : test_Message : Msg Asserted
+2025-03-17 11:31:43,953 :INFO : test_Message : Mail Deleted
+2025-03-17 11:31:54,011 :INFO : test_Label : Added Label
+2025-03-17 11:32:01,331 :INFO : test_Settings : Settings Changed
+2025-03-17 11:32:09,595 :INFO : test_Filter : Filter Added
+2025-03-17 11:32:16,890 :INFO : test_Draft : Draft Opened
+2025-03-17 11:32:27,846 :INFO : test_Logout : Logged Out
