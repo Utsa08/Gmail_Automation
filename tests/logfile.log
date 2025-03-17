@@ -1,7 +1,0 @@
-2025-03-12 11:56:57,461 :INFO : test_login : My Email: utsa.ghosh@cbnits.com
-2025-03-12 11:57:03,089 :INFO : test_login : My Password: Cbnits@1234
-2025-03-12 11:57:27,001 :INFO : test_login : To Email: utsa.ghosh@cbnits.com
-2025-03-12 11:57:27,319 :INFO : test_login : Subject :Gmail Automation
-2025-03-12 11:57:27,962 :INFO : test_login : Description :Python Automation
-2025-03-12 11:58:20,417 :INFO : test_Message : Msg Asserted
-2025-03-12 11:58:20,417 :INFO : test_Message : Mail Deleted
