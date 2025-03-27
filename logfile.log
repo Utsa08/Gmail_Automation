@@ -1,0 +1,5 @@
+2025-03-27 12:33:59,891 :INFO : test_login : Login Successful
+2025-03-27 12:36:29,057 :INFO : test_settings : Settings Changed
+2025-03-27 12:37:00,761 :INFO : test_filter : Filtered the Mail
+2025-03-27 12:39:11,055 :INFO : test_spam : Spam Cleared
+2025-03-27 12:39:42,258 :INFO : test_delete : Message Checked and Deleted

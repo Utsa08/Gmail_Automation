@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests if there exists any mail in the trash and deletes it
 class TrashPage:
     def __init__(self,driver):
         self.driver = driver

@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests the search option and asserts the mail
 class SearchPage:
     def __init__(self, driver):
         self.driver = driver
@@ -15,12 +16,12 @@ class SearchPage:
 
     def getSearchButton(self):
         wait = WebDriverWait(self.driver, 30)
-        wait.until(expected_conditions.visibility_of_element_located(self.locator.searchButton))
+        wait.until(expected_conditions.visibility_of_element_located(self.locator.convo))
         self.driver.find_element(*self.locator.searchButton).click()
 
     def getSearchMessage(self):
         wait = WebDriverWait(self.driver, 50)
-        wait.until(expected_conditions.presence_of_element_located(self.locator.convo))
+        wait.until(expected_conditions.presence_of_element_located(self.locator.searchMessage))
         messages = self.driver.find_elements(*self.locator.searchMessage)
         for message in messages:
             if "Automation" in message.text:

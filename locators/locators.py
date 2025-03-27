@@ -68,3 +68,7 @@ class AllLocators:
     #SpamPage
     spam = (By.XPATH,"//a[@aria-label='Spam']")
     spamCheck =(By.XPATH,"//td[contains(text(),'no spam')]")
+
+    #DeletePage
+    delete = (By.XPATH,"//div[contains(@class,'T-I J-J5-Ji nX T-I-ax7 T-I-Js-Gs mA')]")
+    deleteMessage = (By.XPATH, "//span[text()='Conversation moved to Trash.']")

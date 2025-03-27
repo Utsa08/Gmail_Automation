@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests if the filter function works properly
 class FilterPage:
     def __init__(self,driver):
         self.driver = driver

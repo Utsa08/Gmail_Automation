@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests the logout function of the email
 class LogoutPage:
     def __init__(self,driver):
         self.driver = driver

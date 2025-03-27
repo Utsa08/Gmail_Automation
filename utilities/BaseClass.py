@@ -5,10 +5,6 @@ import pytest
 
 class BaseClass:
 
-    # #Driver
-    # def getDriver(self):
-    #     return self.driver
-
     #Logger
     def get_logger(self):
         loggerName = inspect.stack()[1][3]

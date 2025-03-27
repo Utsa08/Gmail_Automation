@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests the settings function and changes the settings
 class SettingsPage:
     def __init__(self,driver):
         self.driver = driver

@@ -3,6 +3,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators.locators import AllLocators
 
 
+#Tests if Labels can be created or not
 class LabelPage:
     def __init__(self,driver):
         self.driver = driver
